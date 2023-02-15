@@ -22,7 +22,6 @@ Header.contextTypes = {
 }
 
 
-
 class App extends Component {
     static childContextTypes = {
         metrika: PropTypes.object,
@@ -48,7 +47,6 @@ class App extends Component {
                                 />
                                 <div>Тут можно нарисовать какую-то графику</div>
                                 <DashboardWidgetButton
-                                    onClick={() => {console.log('ura!!!')}}
                                     text="Перейти в кабинет дилера"
                                 />
                             </DashboardWidget>

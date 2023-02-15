@@ -34,11 +34,11 @@ module.exports = {
             },
             shared: {
                 react: {
-                    requiredVersion: deps.react,
+                    eager: true,
                     singleton: true,
                 },
                 "react-dom": {
-                    requiredVersion: deps['react-dom'],
+                    eager: true,
                     singleton: true,
                 },
             }

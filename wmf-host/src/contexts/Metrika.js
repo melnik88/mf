@@ -1,4 +1,3 @@
-//see https://a.yandex-team.ru/arcadia/classifieds/autoru-frontend/auto-core/react/lib/metrika.d.ts
 import { createContext } from 'react';
 
 const metrika = {
