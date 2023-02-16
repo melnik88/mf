@@ -47,6 +47,10 @@ module.exports = {
                     eager: true,
                     singleton: true,
                 },
+                'react-redux': {
+                    singleton: true,
+                    eager: true,
+                }
             }
         }),
         new HtmlWebpackPlugin({
