@@ -6,9 +6,12 @@ import {ErrorBoundary} from './ErrorBoundary';
 import { metrika } from '../contexts/Metrika';
 const RemoteComponent = React.lazy(async () => await import('remoteApp/RemoteComponent'));
 const DashboardWidgetHeader = React.lazy(async () => await import('autoruApp/DashboardWidgetHeader'));
+//компонент со стилями
+const CabinetWrapper = React.lazy(async () => await import('autoruApp/CabinetWrapper'));
 const DashboardWidget = React.lazy(async () => await import('autoruApp/DashboardWidget'));
 const DashboardWidgetButton = React.lazy(async () => await import('autoruApp/DashboardWidgetButton'));
-
+const CardViewPhoneShow = React.lazy(async () => await import('autoruApp/CardViewPhoneShow'));
+import offerMock from '../mocks/offer.json';
 import { store } from '../store/store';
 
 //динамически загружаем reducer из autoruApp
@@ -62,18 +65,30 @@ class App extends Component {
                             <RemoteComponent/>
                         </Suspense>
                             <Suspense fallback={<div>Загрузка...</div>}>
-                                <DashboardWidget>
-                                    <DashboardWidgetHeader
-                                        title="Заголовок"
-                                    />
-                                    <div>Тут можно нарисовать какую-то графику</div>
-                                    <DashboardWidgetButton
-                                        onClick={this.getClient}
-                                        text="Перейти в кабинет дилера"
-                                    />
-                                </DashboardWidget>
+                                <CabinetWrapper>
+                                    <DashboardWidget>
+                                        <DashboardWidgetHeader
+                                            title="Заголовок"
+                                        />
+                                        <div>Тут можно нарисовать какую-то графику</div>
+                                        <DashboardWidgetButton
+                                            onClick={this.getClient}
+                                            text="Перейти в кабинет дилера"
+                                        />
+                                    </DashboardWidget>
+                                </CabinetWrapper>
                             </Suspense>
-                    </ ErrorBoundary>
+
+                        <div style={{width: 600}}>
+                        <Suspense fallback={<div>Загрузка...</div>}>
+                            <CabinetWrapper>
+                                <CardViewPhoneShow
+                                    offer={offerMock}
+                                />
+                            </CabinetWrapper>
+                        </Suspense>
+                        </div>
+                    </ErrorBoundary>
                     <SimpleComponent/>
                 </div>
             </Provider>

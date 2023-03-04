@@ -1,0 +1,1340 @@
+{
+  "availability": "IN_STOCK",
+  "color_hex": "FAFBFB",
+  "delivery_info": {},
+  "discount_options": {},
+  "documents": {
+    "owners_number": 0,
+    "custom_cleared": true,
+    "year": 2019,
+    "vin": "X2FXXXESGXKS36283"
+  },
+  "is_favorite": false,
+  "old_category_id": 31,
+  "owner_expenses": {},
+  "score": {},
+  "service_info": [
+    {
+      "service": "placement",
+      "last_activation_moment": "2023-02-09T08:34:48Z"
+    }
+  ],
+  "status": "active",
+  "tags": [
+    "longtime"
+  ],
+  "user_ref": "dealer:16453",
+  "actions": {
+    "edit": true,
+    "activate": false,
+    "hide": true,
+    "archive": true
+  },
+  "daily_counters": [
+    {
+      "date": "2023-01-23",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-01-24",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-01-25",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-01-26",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-01-27",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-01-28",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-01-29",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-01-30",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-01-31",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-01",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-02",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-03",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-04",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-05",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-06",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-07",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-08",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-09",
+      "views": 68,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 1,
+      "favorite_remove": 0,
+      "favorite_total": 1,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-10",
+      "views": 19,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 2,
+      "favorite_remove": 0,
+      "favorite_total": 2,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-11",
+      "views": 18,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 4,
+      "favorite_remove": 2,
+      "favorite_total": 2,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-12",
+      "views": 13,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-13",
+      "views": 31,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 4,
+      "favorite_remove": 0,
+      "favorite_total": 4,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-14",
+      "views": 19,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 2,
+      "favorite_remove": 0,
+      "favorite_total": 2,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-15",
+      "views": 20,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 1,
+      "favorite_remove": 0,
+      "favorite_total": 1,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-16",
+      "views": 10,
+      "phone_views": 1,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 2,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 10,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-17",
+      "views": 3,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-18",
+      "views": 4,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-19",
+      "views": 4,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-20",
+      "views": 2,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 1,
+      "favorite_remove": 0,
+      "favorite_total": 1,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-21",
+      "views": 2,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 1,
+      "favorite_remove": 1,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    },
+    {
+      "date": "2023-02-22",
+      "views": 0,
+      "phone_views": 0,
+      "phone_calls": 0,
+      "favorite": 0,
+      "favorite_remove": 0,
+      "favorite_total": 0,
+      "card_view_phone_show_conversion": 0,
+      "card_view_calls_conversion": 0,
+      "avito_views": 0,
+      "avito_phone_views": 0,
+      "drom_views": 0,
+      "drom_phone_views": 0,
+      "avito_card_view_phone_show_conversion": 0,
+      "drom_card_view_phone_show_conversion": 0
+    }
+  ],
+  "description": "15\" стальные колесные диски\nБелый\nБортовой компьютер\nВодительская подушка безопасности\nГолубой\nЗадний парктроник\nКондиционер\nМеханические регулировки водительского сиденья\nТемный цвет салона\nТкань\\Велюр\nЦентральный замок с  дист. упр.\nЭлектропривод зеркал\nЭлектростеклоподъемники передние\n\nS36283",
+  "search_position": -1,
+  "additional_info": {
+    "is_owner": true,
+    "hidden": false,
+    "is_on_moderation": false,
+    "exchange": true,
+    "expire_date": "1676018088000",
+    "update_date": "1675967575000",
+    "actualize_date": "1676968680045",
+    "creation_date": "1675931663000",
+    "similar_offers_count": 33,
+    "was_active": true,
+    "chat_only": false,
+    "real_creation_date": "1675931663000",
+    "search_positions": [
+      {
+        "total_count": 33,
+        "positions": [
+          {
+            "position": -1,
+            "sort": "RELEVANCE",
+            "total_count": 33
+          },
+          {
+            "position": -1,
+            "sort": "PRICE",
+            "total_count": 33
+          },
+          {
+            "position": -1,
+            "sort": "FRESH_DATE",
+            "total_count": 33
+          },
+          {
+            "position": 42,
+            "sort": "SIMPLE_RELEVANCE",
+            "total_count": 607
+          }
+        ]
+      }
+    ],
+    "dealer_card_promo": "DONT_SHOW",
+    "days_in_stock": 13,
+    "days_on_sale": 13,
+    "can_view": true,
+    "last_status": "ACTIVE",
+    "app2app_calls_disabled": false
+  },
+  "category": "trucks",
+  "counters": {
+    "all": 213,
+    "daily": 0,
+    "phone_all": 1,
+    "phone_daily": 0,
+    "calls_all": 0,
+    "favorite_all": 16,
+    "favorite_daily": 0,
+    "favorite_remove_all": 5,
+    "favorite_remove_daily": 0,
+    "favorite_total_all": 11,
+    "favorite_total_daily": 0,
+    "card_view_phone_show_conversion_all": 0,
+    "card_view_phone_show_conversion_daily": 0,
+    "card_view_call_conversion_all": 0,
+    "card_view_call_conversion_daily": 0,
+    "avito_all": 0,
+    "avito_daily": 0,
+    "avito_phone_all": 0,
+    "avito_phone_daily": 0,
+    "avito_card_view_phone_show_conversion_all": 0,
+    "avito_card_view_phone_show_conversion_daily": 0,
+    "drom_all": 0,
+    "drom_daily": 0,
+    "drom_phone_all": 0,
+    "drom_phone_daily": 0,
+    "drom_card_view_phone_show_conversion_all": 0,
+    "drom_card_view_phone_show_conversion_daily": 0,
+    "chats_all": 0,
+    "card_view_chat_conversion_all": 0
+  },
+  "hash": "997eb1f3",
+  "id": "19460905",
+  "multiposting": {
+    "classifieds": []
+  },
+  "price_info": {
+    "price": 2040000,
+    "currency": "RUR",
+    "EUR": 25577,
+    "RUR": 2040000,
+    "USD": 27251
+  },
+  "price_history": [
+    {
+      "EUR": 25577,
+      "RUR": 2040000,
+      "USD": 27251,
+      "create_timestamp": 1675931663457
+    }
+  ],
+  "saleId": "19459758",
+  "salon": {
+    "actual_stock": true,
+    "client_id": "16453",
+    "code": "major_expert_moskva",
+    "dealer_id": "20866539",
+    "is_oficial": false,
+    "logo_url": "//avatars.mds.yandex.net/get-verba/787013/2a000001645b5766a310925cefe659d6a70b/dealer_logo",
+    "name": "Major Expert Новорижский",
+    "phones": [
+      {
+        "phone": "71231231231",
+        "call_hour_start": 8,
+        "call_hour_end": 22,
+        "original": "71231231231",
+        "mask": "1:3:7",
+        "title": "Менеджер"
+      }
+    ],
+    "place": {
+      "address": "Россия, Москва, улица Маршала Прошлякова, 13",
+      "coord": {
+        "latitude": 55.788288,
+        "longitude": 37.387676
+      },
+      "geobase_id": "213",
+      "region_info": {
+        "id": "213",
+        "name": "Москва",
+        "genitive": "Москвы",
+        "dative": "Москве",
+        "accusative": "Москву",
+        "prepositional": "Москве",
+        "preposition": "в",
+        "latitude": 55.755863,
+        "longitude": 37.6177,
+        "parent_ids": [
+          "213",
+          "1",
+          "3",
+          "225",
+          "10001",
+          "10000"
+        ]
+      }
+    },
+    "registration_date": "2001-01-28T15:36:41Z",
+    "salon_id": "10767",
+    "is_official": false
+  },
+  "section": "used",
+  "seller": {
+    "location": {
+      "address": "Москва, МКАД, 18км, владение 1",
+      "coord": {
+        "latitude": 55.62981,
+        "longitude": 37.803516
+      },
+      "geobase_id": "213",
+      "region_info": {
+        "id": "213",
+        "name": "Москва",
+        "genitive": "Москвы",
+        "dative": "Москве",
+        "accusative": "Москву",
+        "prepositional": "Москве",
+        "preposition": "в",
+        "latitude": 55.755863,
+        "longitude": 37.6177,
+        "parent_ids": [
+          "213",
+          "1",
+          "3",
+          "225",
+          "10001",
+          "10000"
+        ]
+      },
+      "timezone_info": {
+        "name": "Europe/Moscow",
+        "abbr": "MSK",
+        "offset": 10800,
+        "dst": false
+      }
+    },
+    "name": "MAJOR EXPERT",
+    "phones": [
+      {
+        "phone": "74951168357",
+        "call_hour_start": 8,
+        "call_hour_end": 22,
+        "original": "74951168357",
+        "mask": "1:3:7",
+        "title": "MAJOR EXPERT"
+      }
+    ],
+    "redirect_phones": true,
+    "chats_enabled": false,
+    "call_hours": {
+      "call_hour_start": 8,
+      "call_hour_end": 22
+    }
+  },
+  "seller_type": "COMMERCIAL",
+  "service_prices": [
+    {
+      "service": "all_sale_fresh",
+      "name": "Поднятие в поиске",
+      "title": "Поднятие в поиске",
+      "description": "Данная услуга не просто поднимает ваше объявление в поиске, но еще и обновляет дату публикации и количество просмотров объявления. Таким образом, она отлично работает даже в случае самых застоявшихся автомобилей.",
+      "description_app": "Данная услуга не просто поднимает ваше объявление в поиске, но еще и обновляет дату публикации и количество просмотров объявления. Таким образом, она отлично работает даже в случае самых застоявшихся автомобилей.",
+      "days": 1,
+      "price": 250,
+      "currency": "RUR",
+      "original_price": 250,
+      "recommendation_priority": 5,
+      "need_confirm": true,
+      "purchase_forbidden": false,
+      "has_unlimited_duration": false
+    },
+    {
+      "service": "package_turbo",
+      "name": "Турбо-продажа",
+      "title": "Турбо-продажа",
+      "description": "Ваше предложение увидит максимум посетителей   это увеличит шансы на быструю и выгодную продажу. К объявлению будут применены услуги «Премиум» и «Спецпредложение» на 7 дней, а на 1-й, 3-й и 5-й день мы поднимем его в поиске.",
+      "description_app": "Ваше предложение увидит максимум посетителей   это увеличит шансы на быструю и выгодную продажу. К объявлению будут применены услуги «Премиум» и «Спецпредложение» на 7 дней, а на 1-й, 3-й и 5-й день мы поднимем его в поиске.",
+      "days": 7,
+      "price": 888,
+      "currency": "RUR",
+      "original_price": 888,
+      "package_services": [
+        {
+          "service": "all_sale_special",
+          "name": "Спецпредложение",
+          "title": "Спецпредложение",
+          "description": "Ваше объявление будет отображаться в специальном блоке на страницах поисковой выдачи по марке/модели и на страницах Каталога, а также иметь приоритетную позицию в блоке «Похожие» на карточках объявлений о продаже аналогичных авто.",
+          "description_app": "Ваше объявление будет отображаться в специальном блоке на страницах поисковой выдачи по марке/модели и на страницах Каталога, а также иметь приоритетную позицию в блоке «Похожие» на карточках объявлений о продаже аналогичных авто.",
+          "days": 7,
+          "price": 0,
+          "recommendation_priority": 0,
+          "need_confirm": false,
+          "purchase_forbidden": false,
+          "has_unlimited_duration": false
+        },
+        {
+          "service": "all_sale_premium",
+          "name": "Премиум-объявление",
+          "title": "Премиум-объявление",
+          "description": "Объявление с данной услугой имеет расширенную карточку в поисковой выдаче, что значительно повышает привлекательность предложения в глазах покупателей, а также помещается в специальный блок над поисковой выдачей, что позволяет продать автомобиль в рекордно короткие сроки.",
+          "description_app": "Объявление с данной услугой имеет расширенную карточку в поисковой выдаче, что значительно повышает привлекательность предложения в глазах покупателей, а также помещается в специальный блок над поисковой выдачей, что позволяет продать автомобиль в рекордно короткие сроки.",
+          "days": 7,
+          "price": 0,
+          "recommendation_priority": 0,
+          "need_confirm": false,
+          "purchase_forbidden": false,
+          "has_unlimited_duration": false
+        }
+      ],
+      "recommendation_priority": 4,
+      "need_confirm": true,
+      "purchase_forbidden": false,
+      "has_unlimited_duration": false
+    },
+    {
+      "service": "all_sale_premium",
+      "name": "Премиум-объявление",
+      "title": "Премиум-объявление",
+      "description": "Объявление с данной услугой имеет расширенную карточку в поисковой выдаче, что значительно повышает привлекательность предложения в глазах покупателей, а также помещается в специальный блок над поисковой выдачей, что позволяет продать автомобиль в рекордно короткие сроки.",
+      "description_app": "Объявление с данной услугой имеет расширенную карточку в поисковой выдаче, что значительно повышает привлекательность предложения в глазах покупателей, а также помещается в специальный блок над поисковой выдачей, что позволяет продать автомобиль в рекордно короткие сроки.",
+      "days": 1,
+      "price": 300,
+      "currency": "RUR",
+      "original_price": 300,
+      "recommendation_priority": 3,
+      "need_confirm": true,
+      "purchase_forbidden": false,
+      "has_unlimited_duration": false
+    },
+    {
+      "service": "all_sale_special",
+      "name": "Спецпредложение",
+      "title": "Спецпредложение",
+      "description": "Ваше объявление будет отображаться в специальном блоке на страницах поисковой выдачи по марке/модели и на страницах Каталога, а также иметь приоритетную позицию в блоке «Похожие» на карточках объявлений о продаже аналогичных авто.",
+      "description_app": "Ваше объявление будет отображаться в специальном блоке на страницах поисковой выдачи по марке/модели и на страницах Каталога, а также иметь приоритетную позицию в блоке «Похожие» на карточках объявлений о продаже аналогичных авто.",
+      "days": 1,
+      "price": 100,
+      "currency": "RUR",
+      "original_price": 100,
+      "recommendation_priority": 2,
+      "need_confirm": true,
+      "purchase_forbidden": false,
+      "has_unlimited_duration": false
+    },
+    {
+      "service": "all_sale_badge",
+      "name": "Стикеры",
+      "title": "Стикеры быстрой продажи",
+      "description": "Небольшие цветные блоки, которые отображаются в карточке при поиске. Содержат надпись, которая позволяет привлечь к машине больше внимания. Стикеры выделят ваш автомобиль среди конкурентов и помогут продать его быстрее.",
+      "description_app": "Небольшие цветные блоки, которые отображаются в карточке при поиске. Содержат надпись, которая позволяет привлечь к машине больше внимания. Стикеры выделят ваш автомобиль среди конкурентов и помогут продать его быстрее.",
+      "days": 1,
+      "price": 50,
+      "currency": "RUR",
+      "original_price": 50,
+      "recommendation_priority": 1,
+      "need_confirm": true,
+      "purchase_forbidden": false,
+      "has_unlimited_duration": false
+    }
+  ],
+  "services": [],
+  "state": {
+    "condition": "CONDITION_OK",
+    "mileage": 89651,
+    "c2b_auction_info": {
+      "price_range": {}
+    },
+    "image_urls": [
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2166045/3b196b049ec085c51e49062357aab088/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2166045/3b196b049ec085c51e49062357aab088/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2166045/3b196b049ec085c51e49062357aab088/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2166045/3b196b049ec085c51e49062357aab088/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2166045/3b196b049ec085c51e49062357aab088/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2166045/3b196b049ec085c51e49062357aab088/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2166045/3b196b049ec085c51e49062357aab088/1200x900n"
+        },
+        "name": "autoru-vos:2166045-3b196b049ec085c51e49062357aab088",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD07wx4f1bSUbWzod9dNFEbm0RtOaeJ1x/rSNpBUE4G7jv2FR+I/wBoz4t/D3wpqPinVzc6f4Y02BrnN1pMMEV024JFbo3lDO+RkQlclQWbtXyB49+K/jbwT8Sbi+vPGvjzwxrNpqv2mbwuLicQQQrJlYkfzFjMO0Koyh4I+939L/4bm1XWZ7y98J/D+z07UAY2mvdd1GXU2aKOQybEXaoDHeRu68qOTtrRNWMZU5cybf4n2Z8KtV1T4ifB7w3rXjSwgbXL+18+7ilhAUMWOMKc4BXB/GivDNY1v9ob4xWEdp4atrvw/BdSohvrfTorCCGMnJk3XErzuPXaiHnp2oo54rQpRZ9XeMvh94W1uTzdR8NaRfyAZ33VhFIc/VlNZnhT4TeB7K6tbq38G+H4LqF/Mini0uBXjfP3lYJkH3FFFYs0W565YwxqgIRQcDkCiiipRZ//2Q=="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1987671/80f49d4906f5341c1b1bb4db36da7b37/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1987671/80f49d4906f5341c1b1bb4db36da7b37/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1987671/80f49d4906f5341c1b1bb4db36da7b37/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1987671/80f49d4906f5341c1b1bb4db36da7b37/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1987671/80f49d4906f5341c1b1bb4db36da7b37/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1987671/80f49d4906f5341c1b1bb4db36da7b37/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1987671/80f49d4906f5341c1b1bb4db36da7b37/1200x900n"
+        },
+        "name": "autoru-vos:1987671-80f49d4906f5341c1b1bb4db36da7b37",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDp7TVDHr+lWsVu2o3VzcbILJInk891jeXyyFwfmEZH1IHUiulPj/x06B5/g7ogtiRFz4YnB39cb9+c47da3PjB8DfEHwv8MXnifwkH8U6zYqph0q5tncTFnCPgQkOcIzEbSCCM5NfEKw/Fj/hKItaXQvimPEban9vMX+kfYC/mb9n+r37O2z04z3q1JIzdNy2dj6B1nVR/wkmr2bWp0+4tZwlxZlHjFvI0aSmIBuflEgHOSOh5Bor0z4ffs4eIfiX4PtPE/iEx+G/EN+Ge40eGxl8u3wxVRmWQyElVVjuycsaKzbZajofcm0EDgdqayLk/KOvpRRTKRNsUR8KB+FFFFAj/2Q=="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1643175/56b3c395bfede996d7da47081db55398/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1643175/56b3c395bfede996d7da47081db55398/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1643175/56b3c395bfede996d7da47081db55398/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1643175/56b3c395bfede996d7da47081db55398/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1643175/56b3c395bfede996d7da47081db55398/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1643175/56b3c395bfede996d7da47081db55398/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1643175/56b3c395bfede996d7da47081db55398/1200x900n"
+        },
+        "name": "autoru-vos:1643175-56b3c395bfede996d7da47081db55398",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD7gl0y10Pwvc3GnWVqt1bWrGANAELSBDtHIB5OBXyl4L/aN+JfxU8Km6TRbXV73Tpn03WdNt9DW6FrcJ/GybDIqOmDlsfMsg4AFWNC0r9o/wCENrfW9w+veJdOt7l3gu3a01SSeInIzC7pKOc8CbgEADivIfGn7dPjbwprd6njLwjpN/m7WS3skSbSr+z8tCqlwS5+YOzAOWHzHHFacyZm4s9Q8QWt3fJFqTaQ9gboEmCDTpoI02r87YbIABByeByBiivmn/hpP4g/Fz4kT6hovizxnZi4nt/sXgq11C5mgljRQrRblIjKMEO9pE53EnPJJWdk3oaJOKVz9pIo0NuuVX8qz7zQtNvrlGudPtbhgCAZYVYgZHqKKKBmHqWk2NjdQi2s7e3HJ/dRKvOD6CiiikNH/9k="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4211830/fb93ef06b0ff644192f7c053b9a5a80f/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4211830/fb93ef06b0ff644192f7c053b9a5a80f/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4211830/fb93ef06b0ff644192f7c053b9a5a80f/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4211830/fb93ef06b0ff644192f7c053b9a5a80f/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4211830/fb93ef06b0ff644192f7c053b9a5a80f/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4211830/fb93ef06b0ff644192f7c053b9a5a80f/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4211830/fb93ef06b0ff644192f7c053b9a5a80f/1200x900n"
+        },
+        "name": "autoru-vos:4211830-fb93ef06b0ff644192f7c053b9a5a80f",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6r/4UL8K7myRl0W12NGCJIL2WMsMcH5ZBWJ4t/ZW8APol5cxabqfnQQO8cVvqErOxC52L5hcc49DXgLfCD9szQdZt1sfFF9qllZsqQlpdNhSSLowZH3gnGNrMGwe1d7beHP2sLi2T7XZWkoPWK/1DTXPcchLRR+veteaL3MuWS2Z8kSa7b6tLdf2Vd3Vxa24Ky2lzIDcWa7tmyUDIAyNucAH0HSivpXxD8J/2sfE+vyXFzpvhWztJLc2srS21jMJomHzCRwBLngYCMo4GaKyaXRmibS1P0FbgjH96rUaj7IxwM+uKKKlFkaKGKAgEe9FFFITP/9k="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2175643/d6cc8c898cd6685792f33b59bb4fc335/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2175643/d6cc8c898cd6685792f33b59bb4fc335/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2175643/d6cc8c898cd6685792f33b59bb4fc335/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2175643/d6cc8c898cd6685792f33b59bb4fc335/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2175643/d6cc8c898cd6685792f33b59bb4fc335/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2175643/d6cc8c898cd6685792f33b59bb4fc335/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2175643/d6cc8c898cd6685792f33b59bb4fc335/1200x900n"
+        },
+        "name": "autoru-vos:2175643-d6cc8c898cd6685792f33b59bb4fc335",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD7t8Hxw2mgaRDbsq2y2sSwmNsKyhAAR6jGKkufF+i3d9qelnVLOW5s3WG6t5ZlDRM0auFIJ7qyn8a/PD4hftofHf4P6rYeGtT8O+ETdQW29bqaMTQkLwrJIsyqrDB+VgG9Fwa8/sf+ChPxa1bXNQGi2ug2Gq6vPHNLFDpry7pEAURRAsSd6qFwdzZY4YfKF2510I9mle79D6U/bZsNA8E6T4b1WDRreyW9u2t7jUbZNoTKZjDhRghiCATznGDjNFZk/iv9pX4paDcRaD4cu7N7mNokutW8MW+nrGCM7gZryQ9hjMZ5I6dQVnJxuCUj7su9B0y/QfatOtLnJ/5bQK38xWjovhnR7BGa10mxtmXoYbZFI/IUUVkaPY0QiiOPCgfhRRRTQI//2Q=="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181185/0d43f07ae5091a7dcc141a2d5b6d14a7/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181185/0d43f07ae5091a7dcc141a2d5b6d14a7/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181185/0d43f07ae5091a7dcc141a2d5b6d14a7/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181185/0d43f07ae5091a7dcc141a2d5b6d14a7/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181185/0d43f07ae5091a7dcc141a2d5b6d14a7/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181185/0d43f07ae5091a7dcc141a2d5b6d14a7/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181185/0d43f07ae5091a7dcc141a2d5b6d14a7/1200x900n"
+        },
+        "name": "autoru-vos:2181185-0d43f07ae5091a7dcc141a2d5b6d14a7",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDvf2XNKtdb+LdvFeRwXMdvZzTiOaMMMjCjg9xuzX2fJ4Y0ZroSHS7MyGPZv+zJnb6Z29PavhjxpbX/AOxhrmjfELVrW38VWcF2bGK3tHaFg80Mi7ixDFcDd0Vs9MAnIg1//grN4bgv40tPBcuqSqMpLYavKqbuQAyvBGX65wRjn1qotbMJQduZFj9qrRbTQvi/ewWNpDa28ttBN5UCBEBK4J2gY5xmiq2h+D/EX7X76j8VdB0qy0Cw1a5MX2G+u3M++BEhJyI8Efu+vHTGMjkrNvUtKyPq74/aDpmt+EJ7fUdOtNQt8lvKuoFkXIBwcMCMivhfTvhx4Sa+gJ8L6KT9oxk6fD09Pu0UUIh7n338GNHsND8HWNjptjbafYxoSltaxLFGuTlsKoAGSST7k0UUVJR//9k="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2165647/a27b843cb70a3f58fa353559716ea2f3/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2165647/a27b843cb70a3f58fa353559716ea2f3/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2165647/a27b843cb70a3f58fa353559716ea2f3/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2165647/a27b843cb70a3f58fa353559716ea2f3/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2165647/a27b843cb70a3f58fa353559716ea2f3/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2165647/a27b843cb70a3f58fa353559716ea2f3/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2165647/a27b843cb70a3f58fa353559716ea2f3/1200x900n"
+        },
+        "name": "autoru-vos:2165647-a27b843cb70a3f58fa353559716ea2f3",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD1D9jLwtBrmna/qeraCYXinjitpdV0545iQG37fMABXOBlR1DZY8Bfp2/1ax8PQ2Zu7uGxt57iK0iJO0NLIwSNB7sxCj618fN4V/at+GGlw2f2288W29uu37bYXdjdSsoPBKXNvHI557yk18/+Lf2s/j/4P1WPT/E2nz3rW9+moQw6loAgaJ43zHE2wY2fKpJBJIY7XBww150loQoXfvbH6e+JYYLjStRtbwKIJbZ1kEp+UoVOcj0xmivg3wj+01+0R8fdZl0jw5o/hnS0S1BuL6+tWjiy2AyxuWck4PQKSB1oo50UqdtGz9NnUeWDgZ47VLPbxSbFeNGX0KgiiisCmNNpBHnbDGvHZAKKKKaEf//Z"
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2005797/1e99d8e085da173b27f9c50b60d5203a/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2005797/1e99d8e085da173b27f9c50b60d5203a/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2005797/1e99d8e085da173b27f9c50b60d5203a/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2005797/1e99d8e085da173b27f9c50b60d5203a/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2005797/1e99d8e085da173b27f9c50b60d5203a/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2005797/1e99d8e085da173b27f9c50b60d5203a/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2005797/1e99d8e085da173b27f9c50b60d5203a/1200x900n"
+        },
+        "name": "autoru-vos:2005797-1e99d8e085da173b27f9c50b60d5203a",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDxGa/ttEazuNa+0W1lcFfJjiX9/dZOAIQeD/vdBz1OFP3T4J/ZQ8Bav4W0fU7qy1qCe9tIrl7e6vD5kJdAxRtqryM4PA5HSvLvAnwi/ap0/wARJdQat4Snto42t445Le3gCRDlSjpbu4YsWJ3Eg7j3xjuW8FftX28flRyaPBEgwrQanaKuOwAawP05qo8q3Ialc7LUf2YPhtp+jXc32KeB44HcXE1/KojwpO45bGB1544orxMfB/8AbI1/W7u21HxeumaRfeZFcNbx6ddJDCflQIu2Js7SdzAKSecehQ5LojSEY/bbPvbw9cSzXMQkldxt6MxP8K10QA8zGOMUUVkMdIoKDIB5ooopiR//2Q=="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1894474/049de791371a26df2ec15d3a4f71929e/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1894474/049de791371a26df2ec15d3a4f71929e/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1894474/049de791371a26df2ec15d3a4f71929e/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1894474/049de791371a26df2ec15d3a4f71929e/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1894474/049de791371a26df2ec15d3a4f71929e/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1894474/049de791371a26df2ec15d3a4f71929e/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1894474/049de791371a26df2ec15d3a4f71929e/1200x900n"
+        },
+        "name": "autoru-vos:1894474-049de791371a26df2ec15d3a4f71929e",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDktL8JfCqK1tm8U+J5rzURvA/s3UY7a2YZ4b96isfqPb14zLX4YfDO51N/I8V6hdxxvulhXU7UMidcHKDt3/GvS9Z/4JyTa/qIvdS+LOlaFqdw7TXmjXd2C1qxbiP5JOu3GcHA2gDI5rFj/wCCbktlb2d1F4m+H1xdiRWmil1CVmVerENnDHPYjk9T6TawavqcdqPgPwNJBdPpPimSwuSQsQv5Fkh2ggtzE0rnof4R0znGQSvppP2VNT0fSrNdP8d+H/GviCxjBt9NhsbS3hmUMSY/9aWeTnIYgDsTRU69jVJdZHx98TNQuhq08wuZhLLskkk8w7ndlDMxPckkknuSTXN6RqF0LeGT7TN5nmuN/mHP3U7/AI0UV0GKPSPhpqN3/wAJbpc32qbzo54pEk8w7lYSrhgexHrRRRQxM//Z"
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1870663/06771084927e894c98317e3a6d2a71d4/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1870663/06771084927e894c98317e3a6d2a71d4/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1870663/06771084927e894c98317e3a6d2a71d4/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1870663/06771084927e894c98317e3a6d2a71d4/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1870663/06771084927e894c98317e3a6d2a71d4/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1870663/06771084927e894c98317e3a6d2a71d4/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1870663/06771084927e894c98317e3a6d2a71d4/1200x900n"
+        },
+        "name": "autoru-vos:1870663-06771084927e894c98317e3a6d2a71d4",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD7U/aw85/Dtgba5ks7iCK4uYpojho5F2bT6H72CDwQSO9fm5F+1946/suHWZ7bTJbVpdm3LC48sc78bcDgnjd1z9a9c+MXxw8U2Hw5XxNrE1z4jv8AUo47MiUeXEuHuDhFjUKD9wEgD7q5zivgqDwxeTwf6Po+sSxoclVu1YAfTyahyL9nrpqfuJ+zHfSah4XuppJzcNPBbXBcgjLOhJOD0Ht6AUV8U/CX45eNtG+HeneJ9FvZNNaxWDTpraVDLBOOSyuGGN2FxuGG67SOcFXF3IlC1rM9l/aK0PTtOvNKgtdPtbaA6VaZihhVFPEp6AY6kn6mvM4LeK4t7SOWJJY4IWWJHUERjcOFB6dT0oornnudNPY7bwpoun3Gk+P0lsbaVbfw60kKvCpEbCUEMvHBBZjkep9aKKK1Wxg92f/Z"
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2142835/9dbbf83724f3e36b44869a98d8d0c380/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2142835/9dbbf83724f3e36b44869a98d8d0c380/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2142835/9dbbf83724f3e36b44869a98d8d0c380/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2142835/9dbbf83724f3e36b44869a98d8d0c380/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2142835/9dbbf83724f3e36b44869a98d8d0c380/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2142835/9dbbf83724f3e36b44869a98d8d0c380/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2142835/9dbbf83724f3e36b44869a98d8d0c380/1200x900n"
+        },
+        "name": "autoru-vos:2142835-9dbbf83724f3e36b44869a98d8d0c380",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6a+FXxU0TW/g3pUVxeQTtEsC3OnTx5CojKzLzwwwCAvPasfwf+3Z4M0/xHqOiyNfXfhuBvLsdWjKzlWDENCwJDED5SucnDDJNfCeiaXrI1PU4oJri2sGlZFaZ1IdScZCEHPQc8HFeP+PE134X+P7OGffZ6Qtwl3Hc2SCMlOAzIQMA4/hxxgdepjQzs0fs/oH7XXw31idbaTWlttQZ9v2JInnuEBGQXjiDMnB7jA5GeKK+MPh18GfDHjebTdct9ZjN7I8YF+9unnNEzDeEkTADMu5d2zPzHkUVqoMo8w8G/vfEOs7/AJ9lzchN3O0Dpj0qx8aNPtb3wIDcW0NwY7lChljDbSQwOM9KKKxe5o9jgv2RtVvYru9tEvLhLWK60544FlYIjG6XcQucAnuaKKK7IfCZH//Z"
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1943038/6b6689db07cb0f87c770f31cabb93733/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1943038/6b6689db07cb0f87c770f31cabb93733/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1943038/6b6689db07cb0f87c770f31cabb93733/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1943038/6b6689db07cb0f87c770f31cabb93733/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1943038/6b6689db07cb0f87c770f31cabb93733/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1943038/6b6689db07cb0f87c770f31cabb93733/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1943038/6b6689db07cb0f87c770f31cabb93733/1200x900n"
+        },
+        "name": "autoru-vos:1943038-6b6689db07cb0f87c770f31cabb93733",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwChYeEdJ1PxLdyvp1pL5k0r5aFTnD5B6e9eh/8ACGaObXa2i2RG3/ngvp9K+ddc+Plp8P8A9oXx94Z8Somm2Nlq12Ibm3jkkABlZgmBkjhzhgBwOldXd/tYfD4QYTXLlyVIOLe4HYY6r7frUO41sfN1gtnp/wAWg0NkkKyXcyhI0UKHYvghcADHHHqKKx/DGuRax8btFCFLe2vdVjkgnuCTF5TzYD5JHABORxgqRwQaKXIm+Zg5NaGt+2coH7VfxKwAP+Jq3/oC148/+qNFFUyo7Hqn7O1pBe+NvhulxDHcJ/wm1nFtlQMNjY3Lg9jgZHfAooopoh7n/9k="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1922129/c01e1af30a2ce665642194cd3fe3efcc/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1922129/c01e1af30a2ce665642194cd3fe3efcc/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1922129/c01e1af30a2ce665642194cd3fe3efcc/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1922129/c01e1af30a2ce665642194cd3fe3efcc/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1922129/c01e1af30a2ce665642194cd3fe3efcc/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1922129/c01e1af30a2ce665642194cd3fe3efcc/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1922129/c01e1af30a2ce665642194cd3fe3efcc/1200x900n"
+        },
+        "name": "autoru-vos:1922129-c01e1af30a2ce665642194cd3fe3efcc",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD4q/4SKfVbtptUi+SDP+oUxOeR2XA7j3r0ex8GmHwO3ixrS4XTE53G7+ckSbMBfXv16V5Zp2tabd6pI5VrZGhaMqSSHJUdSWI4IGP90cVYluYjpzW63WoFB0jUkxsc/exjgY7YPTrV06kU3zq+n4mVSnOSj7OVtdfQ7PTPGMtneT3Gk2+FmxsluN8hj69i23JweoNFcLb+ILC0m0y5SW9YBilzHwECgdF7HceSSePTgZKzVVo25Ez7z/Z18M6PqujXk97pNjeTx30ipJcWyOygYwASMgV9AHwtov2Qf8Siw/8AAZP8KKKkpHzb+074f0vQ9R8INpum2mntcakI5mtYFiMq7G4baBkexoooqWUj/9k="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1960645/38918c47749a70ba1a61609e856c4833/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1960645/38918c47749a70ba1a61609e856c4833/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1960645/38918c47749a70ba1a61609e856c4833/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1960645/38918c47749a70ba1a61609e856c4833/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1960645/38918c47749a70ba1a61609e856c4833/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1960645/38918c47749a70ba1a61609e856c4833/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1960645/38918c47749a70ba1a61609e856c4833/1200x900n"
+        },
+        "name": "autoru-vos:1960645-38918c47749a70ba1a61609e856c4833",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD6A8G/tyf8J54b1e51PTb/AMGz6fGN/wBrJkActjlUQSccH5QQQeo7YnhL9qP7N4Y8QLrvxNsr2702QRxalJbT2tqhkGY1kctlyMgELgjvya/L+f4qar4YsLvQNPikW9eQfapGw4eUEcKDyAeMjJ+bJAGTXRfDX4vaTqFudB13wss6zytOJW1A2++Q53Y3KVJOTycnrzUkrU++NP8A2j/Fus+XHB4h8J+KSXGz/hG/Gs9tMT7RSxnd/us9FfP3hf4V+HPEFzp2q6XoF7BPp9zHewxCayuFZ43DhSUcNjK+lFUr9h8p85eNIkbxN4ocopcXBwxHI49a88lRWgZCAUCZCkcA5ooqCUanww8Q6rpnjjQ7az1O8tLeW7jWSKCd0RxuHBAOCKKKK1jsao//2Q=="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1970610/c8c10f6b9ec0ecaa28228446eab132ca/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1970610/c8c10f6b9ec0ecaa28228446eab132ca/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1970610/c8c10f6b9ec0ecaa28228446eab132ca/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1970610/c8c10f6b9ec0ecaa28228446eab132ca/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1970610/c8c10f6b9ec0ecaa28228446eab132ca/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1970610/c8c10f6b9ec0ecaa28228446eab132ca/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1970610/c8c10f6b9ec0ecaa28228446eab132ca/1200x900n"
+        },
+        "name": "autoru-vos:1970610-c8c10f6b9ec0ecaa28228446eab132ca",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD22X9qG6u/iD8RPDniP7Nr8+hD+0dDtzaeT5QilZZNozuf93LbsrEnJLYwOBw/hT9rm78eeLZtM1y10jVdGdwLawhsp47qGUOCuZTKVOME5UA57DHPgfij4heGNQ1rU/GmkajY6vrGk2pWecefbXKwFWjXftVop12ghSBuAVRvIAryfwZ+0rBoXjiXXnu1liflbZonUDkZO8ISec8Y7+1F7BY/UTXPjtqF0vxCurHW73+yfC2Fi0/RoY3vpdqFXQtJu3EyRS7cBTxjLdivi7wV+2L8OfDtlqUK218Bq9w1xeR2cDvJPK5Yl3lkcMTlmIwFUZPy5JyUrjsjyX4iQx2uk+MkhRYlXw5pcYVBtAUCYBeOwAAx7V8paa7NKAWJBxnJ646UUUMD0b4a/wDI9aT7B3Hs21iD9c96KKKuOxnLc//Z"
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2105323/2f0cc84c5a9be88e79a816c94b368a4d/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2105323/2f0cc84c5a9be88e79a816c94b368a4d/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2105323/2f0cc84c5a9be88e79a816c94b368a4d/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2105323/2f0cc84c5a9be88e79a816c94b368a4d/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2105323/2f0cc84c5a9be88e79a816c94b368a4d/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2105323/2f0cc84c5a9be88e79a816c94b368a4d/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2105323/2f0cc84c5a9be88e79a816c94b368a4d/1200x900n"
+        },
+        "name": "autoru-vos:2105323-2f0cc84c5a9be88e79a816c94b368a4d",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD748bftSfDPwN4ifw7e+J7WfxEkbSf2VZnzJPlOCGbiNDkY+d1rlZf2r/B/jCXSdO8MawWl1B2jubjytslkAOV2sMeYSSM8hcEkHgH4J8WeHLHwj4nTXLoGK8Mk9lDfXH+j/aUOfLlkaQjqrbC2NzEMeSBXzppPxOudb+IVta+GZNTniS8klluDI3mBW2qCWU7iq4Y7sg/Me/VNWYmnY/W/wATeNPDfh/4S+IZLRoLC0ee4inBbdJLHlgzZ6s2B94kk9+tFfnv4k8d6l4haHQ7qaVoLiaMYkkZXwrqckPyQTjPX9aKFykqL6niX7YN/c3vxB05Li4lnRNDtnVZXLBWLvkjPc9zW7+zPbxJ4P1mdYkWY3uwyBRuKhFIGfTk8e5ooonuaLc9U8RW0R1rSf3ScTIR8o45AooopR2Rb3Z//9k="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181721/94101494cc3730cded17d7d510cdec48/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181721/94101494cc3730cded17d7d510cdec48/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181721/94101494cc3730cded17d7d510cdec48/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181721/94101494cc3730cded17d7d510cdec48/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181721/94101494cc3730cded17d7d510cdec48/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181721/94101494cc3730cded17d7d510cdec48/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2181721/94101494cc3730cded17d7d510cdec48/1200x900n"
+        },
+        "name": "autoru-vos:2181721-94101494cc3730cded17d7d510cdec48",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9EJ9M8NWP+lyaVpluLceabl7aNfK28lt2OMYzntiuJ1j9pjwdFK9noUs/i2/Xjy9IQSQj3ac4ixnrhieDwcV4xpnxIvf2o/2TLfxPobCfUp4o3v8ASoVxumgdWmhA5PJXcoz8wKg/er5b8E/G3x1408Q6tovg/wAO/abr93B5aWMsrKASASyjau3J5YoPUmmxLzL3xnWy+Kvxxl8d3dq+la1aTQLbJa3JPltDgo24AbiDg5GKK+vvgR8MLzwh4WuLTxMyya7q80l9OHaOZ4j8gYEhdvUg7QCFzjJxklZS3N4xTR85f8EmppD4B8eW5kYwJrMbLFk7VJi+YgdATgZ+gr76ltILO3k+zwxweYS7+WoXcx6k46n3oorY5jzqyldvjPqUZdjGmhW7KhPCkzz5IHYnav5D0ooorCe51U/hP//Z"
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2157046/f9b7c400b10b7806436f866570c34ae7/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2157046/f9b7c400b10b7806436f866570c34ae7/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2157046/f9b7c400b10b7806436f866570c34ae7/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2157046/f9b7c400b10b7806436f866570c34ae7/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2157046/f9b7c400b10b7806436f866570c34ae7/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2157046/f9b7c400b10b7806436f866570c34ae7/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2157046/f9b7c400b10b7806436f866570c34ae7/1200x900n"
+        },
+        "name": "autoru-vos:2157046-f9b7c400b10b7806436f866570c34ae7",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD4v8RRvf6itjetdvZrCbmaOIkSTktsjQEjpuK59snBIArsbX9n7Vl0FL2O20YyywC4GmmFNxiIJDiXd5gXH8Y+pO35q+9Pjh+xPceJNE1EeF4bWx1KRkuLXbH5UfmxtuUEAYweRx659q8Rtfh78T7KVLWT4Oa5N4oWzOmpcqVFoYum03Hmbdp9e46Yb5qcm27oSsfOfwcXx9od/s8B6rq9gmp3EFnbw2d80E3muzqIHIKhsMjYPToTjdiivpTQ/wDgnn44tIIL2e9FhqpQSStbHcBKSzEgcfdLEA+w4oq1KyJaTP1DlGJDjj58VMEUwj5RyvpRRWUikVrtFFshCgHPXFFFFJDP/9k="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1659147/9802b8497ddcf26df608586f81ab88ee/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1659147/9802b8497ddcf26df608586f81ab88ee/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1659147/9802b8497ddcf26df608586f81ab88ee/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1659147/9802b8497ddcf26df608586f81ab88ee/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1659147/9802b8497ddcf26df608586f81ab88ee/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1659147/9802b8497ddcf26df608586f81ab88ee/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1659147/9802b8497ddcf26df608586f81ab88ee/1200x900n"
+        },
+        "name": "autoru-vos:1659147-9802b8497ddcf26df608586f81ab88ee",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2r9qXQo/h1rcuqafDawWt8/ml5I1KxuT8wOeAMnP418q+L/H2tXioI9dhtpFbEZt3VGX6bAD+Ar9Jv2r/AId2XjT4SatE9uJJIkMm3+8uMOP++Cx/Cvyy1j4cXNhH5Eerhlj+5vhBYEdMkMP5U5S7EKPcwPDesa1P4ssUvtdudVvf7RikZliZAmXAPVuW92IJ/Civo34b/CeLw9+zn4j8e30EbX9xepbwSSIVBSMhzKvPV5Qij/cI/jNFZ31K5T9NfF0aS+F9WV1DqbWXIYZH3DX55/DjSbHU/ilpdreWdvd2zy/PDPEro31UjBooq3sM+1fiZpFjF4A1DT0srdLBLR1S1WJREoAyAFxgAGiiis5bmq2P/9k="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4355738/bd40d00fdd2b104c03928428442f729f/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4355738/bd40d00fdd2b104c03928428442f729f/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4355738/bd40d00fdd2b104c03928428442f729f/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4355738/bd40d00fdd2b104c03928428442f729f/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4355738/bd40d00fdd2b104c03928428442f729f/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4355738/bd40d00fdd2b104c03928428442f729f/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/4355738/bd40d00fdd2b104c03928428442f729f/1200x900n"
+        },
+        "name": "autoru-vos:4355738-bd40d00fdd2b104c03928428442f729f",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwC78S/2mvGPwn8K634M8A3dvDqUS3BttREgkeKEAybIgR97a8aKoB+YSEcLmvkaLSPjFr/2jxDqtv4xuL6Qeel8lncTu7ZB/wBawJUYOcg44rp5PjLqnja+vNd0Aapb6tNesNQt9JQbwzu0gl24dim5mTgjA+grjPGfxN13WPFNxaWlwz6gsrq8Fnukclc5wygjoOTngZq1ZMjVqx9jfspftmfEe0a18MeLrma+sUEgW71CKQXChMnaJWGSQFPDAn5cZG4UV8d+HvH/AIg0zStTn+IGqahqOjag0NlbWc0siPu37pCm8ZHlqMEjIy4AJoqVbqWcf4MuJbD4lubaV7ctdNGxiYrlcMdpx2yBxUVhElr+0pp6QosKf28g2xjaMeavGBRRSe4kX/2h7iW8t9Gnnleedby8iEsjFmCKlsVXJ5wCzEDoNx9aKKKCmf/Z"
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2154938/3fece32225aac0c4be30c62f90117201/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2154938/3fece32225aac0c4be30c62f90117201/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2154938/3fece32225aac0c4be30c62f90117201/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2154938/3fece32225aac0c4be30c62f90117201/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2154938/3fece32225aac0c4be30c62f90117201/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2154938/3fece32225aac0c4be30c62f90117201/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2154938/3fece32225aac0c4be30c62f90117201/1200x900n"
+        },
+        "name": "autoru-vos:2154938-3fece32225aac0c4be30c62f90117201",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDlfib8RvEcPji9vYtUe2e7O+a6tn+aSUnMmHHUbjtBHVVSux+B3xCXxNqNxZa1e6lc3cEXmx3K6vdJvG7GGjEmw4yP4frXzJYeK7SXR9F8IMXl1P7FJdLPncIzud0iPofLB69OBTvhb4xudH8fWsqpI8MsbRS7DtO3IJIJ7ggUS1HGVj7ye1tPEHiiy0+4t4dXgvGWMLdRAzQkkAFZlw4/A56+tFc98ObHxvqWpaT4s8I6JNrNhY3I8/zpIk83H3o1DsM8HqM4NFNKSWjE6iufmt4QdrW/glhYwyizGHjO1hm4RTyP9kkfQkV9/fsv+CvD2t/s/eJtQ1HQdMv7+C7uRFdXVnHJLGBbxEBWZSRgkkY9TRRTe5m9j6s/Z5/cfA3weIv3YNqSQnHJd80UUUCP/9k="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1723628/969f2e76564f957ce20d3a78992f1190/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1723628/969f2e76564f957ce20d3a78992f1190/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1723628/969f2e76564f957ce20d3a78992f1190/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1723628/969f2e76564f957ce20d3a78992f1190/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1723628/969f2e76564f957ce20d3a78992f1190/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1723628/969f2e76564f957ce20d3a78992f1190/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/1723628/969f2e76564f957ce20d3a78992f1190/1200x900n"
+        },
+        "name": "autoru-vos:1723628-969f2e76564f957ce20d3a78992f1190",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwClrnii1+IdwmnxXbRTid1dHTasccQ4whwcbtuOgwD7VyXhS+8Va/ol5p8HiDUJ9FkupZo7T7WyxiPdsQAZ6N5ZfaTgbvWsLX/HekeLfE+spZCSzv7W48lruVke4XruV2AUgjgZAfoQSeov+GU1H4ceHA8LxatpyJlXRvnUKOBz97H5+1KTuyUu5698DNW1SDXrzwnJJEulNA93P5ygeSVcDJcc4Ygg5J4H1orL/ZG1aD4y/ETX/DFva3Je6MMN7eceWLNUJkAIOdxbzB9ZFoo5e5d+x8L6XI8XxXs5EYo9yXaZlODKTgkse/PrX1r4NjVtIv3Kgutu5ViORx2NFFAkeof8E0IIx8a/iOwjQMt9KikKMhd3Qe3A/IUUUVctxLY//9k="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2159360/7f4d6ddfc004bf339294f78336c0cde9/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2159360/7f4d6ddfc004bf339294f78336c0cde9/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2159360/7f4d6ddfc004bf339294f78336c0cde9/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2159360/7f4d6ddfc004bf339294f78336c0cde9/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2159360/7f4d6ddfc004bf339294f78336c0cde9/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2159360/7f4d6ddfc004bf339294f78336c0cde9/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2159360/7f4d6ddfc004bf339294f78336c0cde9/1200x900n"
+        },
+        "name": "autoru-vos:2159360-7f4d6ddfc004bf339294f78336c0cde9",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDx/wCGvwL+G2hvZ3l9LqupXUsagTzXhijfjDeX5YU469yfevoPRtC0/RdEex8NXljp8TEeXZXY2lgB2lbKg9Bzye5rxvwZd+LIUtIl1y4Ph4WyNBY7z5SLsHybc4wCBg9RzyK3tZ1fULZIAdIsb1ZJFUxRSeRkMduQAQ7YJGfmOAehp2fRisnujpfCF5J4V8U3q+I4zCGvZr2RCmEcoo2Lv5VgMnGCeh4GeSvI/jP4t0Twxol9pdpf3lm0wZ0WYSygZyMAFyq8HGQAevWipcG3qNO2iPZPg/Elx4f0eKVFliNojbHGVz5Sc4rkJbWCP46eI4khjWK2sovIRVAWLcqlto/hz3x1ooq18InufPv7VPF/B/1z/qaKKKpiZ//Z"
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2088079/d103cf7b0a7f4e33eff9ec8950a11757/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2088079/d103cf7b0a7f4e33eff9ec8950a11757/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2088079/d103cf7b0a7f4e33eff9ec8950a11757/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2088079/d103cf7b0a7f4e33eff9ec8950a11757/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2088079/d103cf7b0a7f4e33eff9ec8950a11757/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2088079/d103cf7b0a7f4e33eff9ec8950a11757/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2088079/d103cf7b0a7f4e33eff9ec8950a11757/1200x900n"
+        },
+        "name": "autoru-vos:2088079-d103cf7b0a7f4e33eff9ec8950a11757",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDwowa9rkF9Y+XGIy5S4WzgSGMnOWGVALYbPUk8VnwWGpxR6teW19JHL9nnthCGbkSRlWA5xtyzAfSvdPjB4Yf4R/F3XPD9tZTzw3DrJZxoucBwWVSw4LYLZ90b0rzCX4e6u+pXj3zrZ292FLWqPhsjPVu3GPShitc92/ZG/aUjnt9K0ZNS26xaxb7CSfJEsQAJib1XbjjrtGRygNFfJGp6lY+Bte0rQfBCGfxQ1xGsAhlZltyCBliTyRg/lmiqWoXsffvx3t4rr9ojVjNEkxTR7hl8xQ20iZcEZ6Yyfzr55+JlxLF4Bu5kldJjCT5isQ2cetFFSy+h81/smwx33xTv5riNbiVbOR1klG5g2RyCe9FFFUiD/9k="
+      },
+      {
+        "sizes": {
+          "small": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2134518/af2529a11f7e8c71939e23b50cd5b82f/small",
+          "thumb_m": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2134518/af2529a11f7e8c71939e23b50cd5b82f/thumb_m",
+          "320x240": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2134518/af2529a11f7e8c71939e23b50cd5b82f/320x240",
+          "456x342": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2134518/af2529a11f7e8c71939e23b50cd5b82f/456x342",
+          "456x342n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2134518/af2529a11f7e8c71939e23b50cd5b82f/456x342n",
+          "1200x900": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2134518/af2529a11f7e8c71939e23b50cd5b82f/1200x900",
+          "1200x900n": "//images.mds-proxy.test.avto.ru/get-autoru-vos/2134518/af2529a11f7e8c71939e23b50cd5b82f/1200x900n"
+        },
+        "name": "autoru-vos:2134518-af2529a11f7e8c71939e23b50cd5b82f",
+        "is_hd": true,
+        "preview": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAASABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5Zuba7kkjitNRk0i4SVgGaBZA65xgqenTsa9W8LT31rHGFv2Q4GTGXUE/Tt+deofEn4e6drP7Mfg/x99njGpWEz2t5JB8zSRMDKpOOvlksuOoUgfwrjxLw7450Z0AF/GP95GH9KhNtA1bRn0F8H9L1Xx54wtdJF3NLAZMSuzFgqAZY856Dj64or2n9jrwZBB4auPEU9v9pW6mSC3Lx5ztxIZOeg3bCD6qMUVtFJozd09DqPglo9hc/sbLBLZW0sP9gXE3lvEpXftkO7BHXPOeua+OvBvh/S7rxBbSz6baTSodyvJArMD6gkdaKKxWxq9z7++EKhPhbp+0BcvOTjjP75xRRRWkugon/9k="
+      }
+    ],
+    "images_count": 25
+  },
+  "sub_category": "lcv",
+  "vehicle_info": {
+    "displacement": 2198,
+    "engine": "DIESEL",
+    "equipment": {
+      "electro-mirrors": true,
+      "electro-window": true,
+      "air-conditioner": true
+    },
+    "gear": "FRONT",
+    "horse_power": 125,
+    "light_truck_type": "ALL_METAL_VAN",
+    "loading": 373,
+    "mark_info": {
+      "code": "FORD",
+      "name": "Ford",
+      "ru_name": "Ford",
+      "logo": {
+        "name": "mark-logo",
+        "sizes": {
+          "logo": "//avatars.mds.yandex.net/get-verba/216201/2a0000017be4254d6181213106ddbc89ae12/logo",
+          "black-logo": "//avatars.mds.yandex.net/get-verba/787013/2a0000017be42558606ee78a7ae1eef2d815/logo"
+        }
+      },
+      "numeric_id": "11203582"
+    },
+    "model_info": {
+      "code": "TRANSIT_LT",
+      "name": "Transit",
+      "ru_name": "Transit"
+    },
+    "seats": 3,
+    "steering_wheel": "LEFT",
+    "transmission": "MECHANICAL",
+    "truck_category": "LCV",
+    "trucks_category": "LCV"
+  },
+  "recommendation_tags": [
+    "views_drop"
+  ],
+  "badges": [],
+  "bansReasons": [],
+  "service_fresh": {
+    "active": false,
+    "isFetching": false,
+    "date": "",
+    "id": "all_sale_fresh",
+    "price": 250,
+    "name": "Поднятие в поиске",
+    "tooltip": {
+      "title": "Поднятие в поиске",
+      "desc": "Данная услуга не просто поднимает ваше объявление в поиске, но еще и обновляет дату публикации и количество просмотров объявления. Таким образом, она отлично работает даже в случае самых застоявшихся автомобилей."
+    }
+  },
+  "service_premium": {
+    "active": false,
+    "isFetching": false,
+    "date": "",
+    "id": "all_sale_premium",
+    "price": 300,
+    "name": "Премиум-объявление",
+    "tooltip": {
+      "title": "Премиум-объявление",
+      "desc": "Объявление с данной услугой имеет расширенную карточку в поисковой выдаче, что значительно повышает привлекательность предложения в глазах покупателей, а также помещается в специальный блок над поисковой выдачей, что позволяет продать автомобиль в рекордно короткие сроки."
+    }
+  },
+  "service_turbo": {
+    "active": false,
+    "isFetching": false,
+    "date": "",
+    "id": "package_turbo",
+    "price": 888,
+    "name": "Турбо-продажа",
+    "tooltip": {
+      "title": "Турбо-продажа",
+      "desc": "Ваше предложение увидит максимум посетителей   это увеличит шансы на быструю и выгодную продажу. К объявлению будут применены услуги «Премиум» и «Спецпредложение» на 7 дней, а на 1-й, 3-й и 5-й день мы поднимем его в поиске."
+    }
+  },
+  "service_spec": {
+    "active": false,
+    "isFetching": false,
+    "date": "",
+    "id": "all_sale_special",
+    "price": 100,
+    "name": "Спецпредложение",
+    "tooltip": {
+      "title": "Спецпредложение",
+      "desc": "Ваше объявление будет отображаться в специальном блоке на страницах поисковой выдачи по марке/модели и на страницах Каталога, а также иметь приоритетную позицию в блоке «Похожие» на карточках объявлений о продаже аналогичных авто."
+    }
+  },
+  "service_badge": {
+    "id": "all_sale_badge",
+    "active": false,
+    "isFetching": false,
+    "price": 50,
+    "name": "Стикеры",
+    "tooltip": {
+      "title": "Стикеры быстрой продажи",
+      "desc": "Небольшие цветные блоки, которые отображаются в карточке при поиске. Содержат надпись, которая позволяет привлечь к машине больше внимания. Стикеры выделят ваш автомобиль среди конкурентов и помогут продать его быстрее."
+    }
+  },
+  "service_reset": {
+    "active": false,
+    "isFetching": false,
+    "date": "",
+    "tooltip": {}
+  }
+}

@@ -1,12 +1,13 @@
 const path = require("path");
+const fs = require("fs");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const ModuleFederationPlugin = require("webpack/lib/container/ModuleFederationPlugin");
-
 module.exports = {
     entry: "./src/index.js",
     output: {
         path: path.join(__dirname, "/dist"),
-        filename: "index-bundle.js"
+        filename: "index-bundle.js",
+        publicPath: '/',
     },
     module: {
         rules: [
@@ -29,7 +30,16 @@ module.exports = {
     },
     devServer: {
         https: true,
-        allowedHosts: 'all'
+        allowedHosts: 'all',
+        proxy: {
+            "/-/ajax/jest/getCardViewPhoneShowData/": {
+                "target": "https://cabinet.frontend3.melnik88.dev.avto.ru",
+                pathRewrite: {"/jest/" : "/cabinet/"},
+                method: 'POST',
+                "changeOrigin": true,
+                secure: false,
+            },
+        }
     },
     plugins: [
         new ModuleFederationPlugin({
@@ -56,6 +66,5 @@ module.exports = {
         new HtmlWebpackPlugin({
             template: "./src/index.html"
         }),
-        
     ]
 };
