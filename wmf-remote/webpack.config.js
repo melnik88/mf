@@ -41,6 +41,10 @@ module.exports = {
                     eager: true,
                     singleton: true,
                 },
+                "clipboard-polyfill": {
+                    eager: true,
+                    singleton: true,
+                }
             }
         }),
         new HtmlWebpackPlugin({
